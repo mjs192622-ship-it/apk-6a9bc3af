@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "807405260529",
+        "project_id": "assignment-work-81e3b",
+        "storage_bucket": "assignment-work-81e3b.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:807405260529:android:87c28390b446c5324ba350",
+                "android_client_info": {
+                    "package_name": "com.chatapp.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAnV5Qtr2eJSo8WNlokV6koHsfWk-LE8OU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:807405260529:android:62d756d8eaf1255b4ba350",
+                "android_client_info": {
+                    "package_name": "com.chatapp.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAnV5Qtr2eJSo8WNlokV6koHsfWk-LE8OU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
